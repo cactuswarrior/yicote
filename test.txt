@@ -1,1 +1,8 @@
-sdfsdfsdfsd
+github를 새로운 컴퓨터에서 git init 하면 push origin master에서 멈추는 경우가 있는데
+이는 git이 인증이 안돼서 그렇다
+윈도우 cmd로 진행하면 git 인증을 어떻게 할걵 ㅣ뜬다
+Select an authentication method for 'https://github.com/':
+  1. Web browser (default)
+  2. Personal access token
+
+1번을 입력하면 자동으로 github에서 인증이 진행된다
